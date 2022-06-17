@@ -52,37 +52,37 @@ dt.predict([[5,6]])
 
 ## Output:
 
-Data Head:
+## Data Head:
 
 ![image](https://user-images.githubusercontent.com/98682825/174348749-5e071b65-654f-4914-9c46-7f7b8d985d05.png)
 
 
-Data Info:
+## Data Info:
 
 ![image](https://user-images.githubusercontent.com/98682825/174348776-f3520a2e-611c-4bed-96ca-f2e08ffc7647.png)
 
 
-Data Isnull:
+## Data Isnull:
 
 ![image](https://user-images.githubusercontent.com/98682825/174348803-3cb41e42-5208-47a5-80ab-df6db418764c.png)
 
 
-Data Head:
+## Data Head:
 
 ![image](https://user-images.githubusercontent.com/98682825/174348844-18b5f661-2cd0-437d-a2ab-600d7e2ab201.png)
 
 
-MSE:
+## MSE:
 
 ![image](https://user-images.githubusercontent.com/98682825/174348886-ee24c18d-58c0-430b-9eb3-76f8b44a595b.png)
 
 
-R2:
+## R2:
 
 ![image](https://user-images.githubusercontent.com/98682825/174348926-b589a1ec-1a83-4b7e-99fc-247e89d504ea.png)
 
 
-Predicted Value:
+## Predicted Value:
 
 ![image](https://user-images.githubusercontent.com/98682825/174348952-2687512e-a2a5-4425-a1b5-8df16b8d59ca.png)
 
